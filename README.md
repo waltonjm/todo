@@ -19,3 +19,5 @@ https://codepen.io/
 
 ## Roadmap
 This application will be used in the development of other applications as we progress in this boot camp.
+
+![todo-list-screenshot](https://user-images.githubusercontent.com/99291782/163876327-b61315a3-9c19-4c6c-aa64-f694f016a288.png)
